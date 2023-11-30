@@ -1,4 +1,10 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+        ["sofle/rev1", "climent"],
+        ["sofle/rev1", "climent_rp2040"],
+        ["atreyu/rev2", "climent"],
+        ["atreyu/rev2", "climent_rp2040"],
+        ["atreyu/rev2", "climent_pcb_201"]
+    ]
 }
